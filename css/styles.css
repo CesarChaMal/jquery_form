@@ -1,0 +1,29 @@
+/* CSS Document */
+body{
+	background-color:#555555;
+	font-size:small;
+	font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+}
+
+div#container{
+	width:728px;
+	margin:10px auto;
+	background-color:#f8f8f8;
+	border:thin double #333333;
+}
+
+table{
+	text-align:left;
+}
+
+span.error{
+	font-size:10px;
+	color:#FF0000;
+}
+input.error{
+	background: #f8dbdb;
+	border-color: #e77776;
+}
+#note{
+	color:#FF0000;
+}
